@@ -1,0 +1,17 @@
+## Dependencies
+node_modules
+
+## Lock file(s)
+package-lock.json
+
+## Build
+build/
+dist/
+
+## Firebase
+server/config/serviceAccountKey.json
+
+## Env files
+.env
+.env.*
+*.env
